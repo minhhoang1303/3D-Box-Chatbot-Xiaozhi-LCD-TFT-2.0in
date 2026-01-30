@@ -1,4 +1,5 @@
 # 3D-Box-Chatbot-Xiaozhi-LCD-TFT-2.0in
+<img width="1920" height="2560" alt="image" src="https://github.com/user-attachments/assets/6a083fc4-36fb-4e7e-98d7-a92ba2056258" />
 <img width="1919" height="1035" alt="image" src="https://github.com/user-attachments/assets/a0ae0af6-af26-415d-829e-4602dcdd1cf2" />
 <img width="1920" height="2560" alt="image" src="https://github.com/user-attachments/assets/7ad2ed35-79e3-46e9-8bec-770e59a85575" />
 <img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/7fc071dc-e4ba-4698-9eef-ecbf7f6b0d9a" />
